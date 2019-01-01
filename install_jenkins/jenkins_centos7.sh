@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ### Installing stable jenkins on RHEL-7 and centos-7
 ## install wget vim tree
 ### Ref https://www.vultr.com/docs/how-to-install-jenkins-on-centos-7

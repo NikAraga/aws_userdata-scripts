@@ -35,3 +35,11 @@ docker-compose version
 ## If above command didn't get you any version try upgrading python and try again
 ## sudo yum upgrade python*
 ## docker-compose version
+
+
+### To perform auto-completion for docker commands
+## Follow below
+yum -y install bash-completion
+curl https://raw.githubusercontent.com/docker/docker-ce/master/components/cli/contrib/completion/bash/docker -o /etc/bash_completion.d/docker.sh
+
+## logout and login again to get auto-completion enabled

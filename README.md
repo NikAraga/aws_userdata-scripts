@@ -1,6 +1,6 @@
-# Installtion UserData Shell based Scripts
+# Installing Shell based UserData Scripts for Centos/RedHat Machines
 
-This repo has userdata/shell scripts which helps developers to install the respective software/applications etc via shell based command-line.
+This repo has userdata/shell scripts which helps developers to install the respective software/applications via shell based command-line.
 
 This can be passed over AWS userdata as well.
 

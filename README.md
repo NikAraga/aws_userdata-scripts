@@ -1,4 +1,4 @@
-# Installing Shell based UserData Scripts for Centos/RedHat7777777 Machines
+# Installing Shell based UserData Scripts for Centos/RedHat7 Machines
 
 This repo has userdata/shell scripts which helps developers to install the respective software/applications via shell based command-line.
 
